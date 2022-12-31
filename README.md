@@ -1,1 +1,2 @@
-# Udacuty-data-science
+# Udacity-data-science
+    <Udacity ="linkeddatascienceSettings">
